@@ -816,6 +816,7 @@
     <button class="filter-btn" onclick="setFilter(this,'boom')">Boom Bap</button>
     <button class="filter-btn" onclick="setFilter(this,'ambient')">Ambient</button>
     <button class="filter-btn" onclick="setFilter(this, 'KUBENGUE')">KUBENGUE</button>
+    <button class="filter-btn" onclick="setFilter(this, 'KUDURO')">KUDURO</button>
     
   </div>
 
